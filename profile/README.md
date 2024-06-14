@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/logo.png" alt="GenAI Impact Logo" style="max-height: 200px">
+    <img src="assets/logo.png" alt="GenAI Impact Logo" height="200">
 </div>
 
 # Understand Generative AI Environmental Footprint
